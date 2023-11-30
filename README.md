@@ -1,2 +1,5 @@
 # wifi_hack-basic
-BASİC WİFİ HACK
+-cd wifi-hack
+python wifi.py
+yapımcı
+bugra
